@@ -47,51 +47,51 @@ $ gem install lerolero_generator
 ```ruby
 # Para gerar uma sentença/frase
 LeroleroGenerator.sentence => # "A prática mostra que a consolidação das
-estruturas exige precisão e definição das atitudes e das atribuições da diretoria."
+# estruturas exige precisão e definição das atitudes e das atribuições da diretoria."
 
 # Para gerar 5 sentenças/frases
 LeroleroGenerator.sentence(5) => # "A experiência mostra que a execução deste
-projeto nos obriga à análise das condições apropriadas para os negócios. Nunca
-é demais insistir que a complexidade dos estudos efetuados facilita a definição
-do nosso sistema de formação de quadros. Não podemos esquecer que a expansão de
-nossa atividade auxilia a preparação e a estruturação das nossas opções de
-desenvolvimento futuro. Caros colegas o desenvolvimento de formas distintas de
-atuação contribui para a correta determinação das formas de ação. A experiência
-mostra que a atual estrutura de organização cumpre um papel essencial na
-formulação das opções básicas para o sucesso do programa."
+#projeto nos obriga à análise das condições apropriadas para os negócios. Nunca
+#é demais insistir que a complexidade dos estudos efetuados facilita a definição
+#do nosso sistema de formação de quadros. Não podemos esquecer que a expansão de
+#nossa atividade auxilia a preparação e a estruturação das nossas opções de
+#desenvolvimento futuro. Caros colegas o desenvolvimento de formas distintas de
+#atuação contribui para a correta determinação das formas de ação. A experiência
+#mostra que a atual estrutura de organização cumpre um papel essencial na
+#formulação das opções básicas para o sucesso do programa."
 
 # Para gerar um parágrafo
 LeroleroGenerator.paragraph => # "Não podemos esquecer que o início do programa
-de formação de atitudes auxilia a preparação e a estruturação das nossas metas
-financeiras e administrativas. Assim mesmo, a análise dos diversos resultados
-facilita a definição das opções básicas para o sucesso do programa. É
-fundamental ressaltar que o desenvolvimento de formas distintas de atuação
-contribui para a correta determinação das formas de ação. Por outro lado, a
-análise dos diversos resultados auxilia a preparação e a estruturação das
-novas proposições"
+#de formação de atitudes auxilia a preparação e a estruturação das nossas metas
+#financeiras e administrativas. Assim mesmo, a análise dos diversos resultados
+#facilita a definição das opções básicas para o sucesso do programa. É
+#fundamental ressaltar que o desenvolvimento de formas distintas de atuação
+#contribui para a correta determinação das formas de ação. Por outro lado, a
+#análise dos diversos resultados auxilia a preparação e a estruturação das
+#novas proposições"
 
 # Para gerar 3 parágrafos
 # Note que ao ser gerado pagrágrafos, o Lero-lero Generator utiliza quebras de
 # linha '\n\n' entre os parágrafos.
 LeroleroGenerator.paragraph(3) => # "Por outro lado, a consolidação das
-estruturas assume importantes posições na definição das nossas opções de
-desenvolvimento futuro. A prática mostra que o novo modelo estrutural aqui
-preconizado acarreta um processo de reformulação das nossas metas financeiras e
-administrativas. Não podemos esquecer que a consolidação das estruturas
-prejudica a percepção da importância dos conceitos de participação geral. Assim
-mesmo, a atual estrutura de organização facilita a definição do nosso sistema de
-formação de quadros. A experiência mostra que a consolidação das estruturas
-oferece uma boa oportunidade de verificação das condições apropriadas para os
-negócios.\n\nO incentivo ao avanço tecnológico, assim como a consolidação das
-estruturas auxilia a preparação e a estruturação das opções básicas para o
-sucesso do programa. A prática mostra que o início do programa de formação de
-atitudes facilita a definição das nossas opções de desenvolvimento futuro. A
-experiência mostra que o novo modelo estrutural aqui preconizado acarreta um
-processo de reformulação do nosso sistema de formação de quadros.\n\nAssim
-mesmo, a constante divulgação das informações oferece uma boa oportunidade de
-verificação das formas de ação. É fundamental ressaltar que a análise dos
-diversos resultados nos obriga à análise das atitudes e das atribuições da
-diretoria."
+#estruturas assume importantes posições na definição das nossas opções de
+#desenvolvimento futuro. A prática mostra que o novo modelo estrutural aqui
+#preconizado acarreta um processo de reformulação das nossas metas financeiras e
+#administrativas. Não podemos esquecer que a consolidação das estruturas
+#prejudica a percepção da importância dos conceitos de participação geral. Assim
+#mesmo, a atual estrutura de organização facilita a definição do nosso sistema de
+#formação de quadros. A experiência mostra que a consolidação das estruturas
+#oferece uma boa oportunidade de verificação das condições apropriadas para os
+#negócios.\n\nO incentivo ao avanço tecnológico, assim como a consolidação das
+#estruturas auxilia a preparação e a estruturação das opções básicas para o
+#sucesso do programa. A prática mostra que o início do programa de formação de
+#atitudes facilita a definição das nossas opções de desenvolvimento futuro. A
+#experiência mostra que o novo modelo estrutural aqui preconizado acarreta um
+#processo de reformulação do nosso sistema de formação de quadros.\n\nAssim
+#mesmo, a constante divulgação das informações oferece uma boa oportunidade de
+#verificação das formas de ação. É fundamental ressaltar que a análise dos
+#diversos resultados nos obriga à análise das atitudes e das atribuições da
+#diretoria."
 ```
 
 ## Recomende
