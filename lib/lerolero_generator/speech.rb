@@ -1,3 +1,4 @@
+# coding: utf-8
 class Speech
   def self.sentence(quantity = 1)
     final_sentence = ""
