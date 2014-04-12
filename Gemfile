@@ -7,5 +7,8 @@ gem "codeclimate-test-reporter", group: :test, require: nil
 # automatic merging of coverage across test suites
 gem 'simplecov', '~> 0.7.1', group: :test, require: nil
 
+# A Ruby implementation of the Coveralls API.
+gem 'coveralls', require: false
+
 # Specify your gem's dependencies in lerolero_generator.gemspec
 gemspec

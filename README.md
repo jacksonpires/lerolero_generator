@@ -3,6 +3,7 @@
 [![Gem Version](https://badge.fury.io/rb/lerolero_generator.svg)](http://badge.fury.io/rb/lerolero_generator)
 [![Build Status](https://travis-ci.org/jacksonpires/lerolero_generator.svg?branch=master)](https://travis-ci.org/jacksonpires/lerolero_generator)
 [![Code Climate](https://codeclimate.com/github/jacksonpires/lerolero_generator.png)](https://codeclimate.com/github/jacksonpires/lerolero_generator)
+[![Coverage Status](https://coveralls.io/repos/jacksonpires/lerolero_generator/badge.png)](https://coveralls.io/r/jacksonpires/lerolero_generator)
 
 Seus problemas acabaram! Com o Lero-lero Generator você poderá preparar discursos, redações e até mesmo monografias! \o/
 
