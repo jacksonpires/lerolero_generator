@@ -1,8 +1,5 @@
 # Require Code Climate Test Reporter
-require "codeclimate-test-reporter"
-
-# Starts Code Climate Test Reporter
-CodeClimate::TestReporter.start
+require 'rspec'
 
 # Require Coveralls for Test cover
 require 'coveralls'
@@ -11,5 +8,5 @@ require 'coveralls'
 Coveralls.wear!
 
 # Require other files of project
-require "lerolero_generator"
-require_relative "../lib/lerolero_generator/speech"
+require 'lerolero_generator'
+require_relative '../lib/lerolero_generator/speech'

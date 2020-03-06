@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 # Code Climate Test Reporter
-gem "codeclimate-test-reporter", group: :test, require: nil
+gem 'rspec', '~> 2.14.1'
 
 # Code coverage for Ruby 1.9+ with a powerful configuration library and
 # automatic merging of coverage across test suites
